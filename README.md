@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javaria Ahmad</h1>
 <h3 align="center">A passionate Coding and ML Learner from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
+<img align="right" alt="coding" width="400" src="[https://i.gifer.com/JXA0.gif](https://i.gifer.com/JXA0.gif)">
 
 - 🔭 I’m currently working on **Python and built many projects**
 
