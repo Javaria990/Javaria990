@@ -1,3 +1,4 @@
+![logo](https://github.com/Javaria990/Javaria990/blob/main/github-header-image%20(3).png)    
 <h1 align="center">Hi 👋, I'm Javaria Ahmad</h1>
 <h3 align="center">A passionate Coding and ML Learner from Pakistan</h3>
 
